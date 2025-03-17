@@ -65,12 +65,4 @@ print(response.json())
 ✅ Experiment with different AI models  
 
 🚀 Happy Coding! 🔥
-```
 
-├── .gitignore
-```
-.env
-__pycache__/
-*.pyc
-*.pyo
-*.log
